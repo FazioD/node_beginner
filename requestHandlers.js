@@ -1,4 +1,3 @@
-var querystring = require('querystring');
 var fs = require('fs');
 var formidable = require('formidable');
 
